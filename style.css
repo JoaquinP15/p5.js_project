@@ -1,0 +1,18 @@
+h3{
+    font-size: 25px !important;
+}
+
+canvas{
+    animation-name: joaquin;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes joaquin {
+    from{
+        box-shadow: 1px 1px 150px deepskyblue;
+    }
+    to{
+        box-shadow: 1px 1px 150px rgb(39, 39, 166);
+    }
+}
