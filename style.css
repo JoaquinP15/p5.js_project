@@ -1,0 +1,14 @@
+h3{
+    font-size: 25px !important;
+}
+
+canvas{
+    animation-name: joaquin;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+body{
+    background-color: lightsteelblue;
+    font-family: 'Dancing Script', cursive;
+}
